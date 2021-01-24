@@ -1,2 +1,2 @@
-# minecraft-laucher-0.1.3
+# minecraft-laucher
 ...
